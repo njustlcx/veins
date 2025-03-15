@@ -8,8 +8,8 @@ config:
     background: tint-plate
     hero:
       name: Veins
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      tagline: Veins, 剖析知识脉络
+      text: Veins, 剖析知识脉络
       actions:
         -
           theme: brand
