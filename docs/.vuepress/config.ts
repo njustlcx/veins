@@ -3,11 +3,12 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: "/veins/",
   lang: 'zh-CN',
   title: 'veins',
   description: '从面试问题出发，剖析底层原理',
 
+  
   head: [
     // 配置站点图标
     ['link', { rel: 'icon', type: 'image/png', href: 'https://theme-plume.vuejs.press/favicon-32x32.png' }],
