@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: "/veins/",
+  base: '/',
   lang: 'zh-CN',
   title: 'veins',
   description: '从面试问题出发，剖析底层原理',
