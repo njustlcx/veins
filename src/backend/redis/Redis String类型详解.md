@@ -32,6 +32,7 @@ struct __attribute__ ((__packed__)) sdshdr64 {
 ```
 SDS的主要特点：
 1. 初始化大小
+2. 测试成功啦
 
 ## String数据结构
 
