@@ -31,7 +31,7 @@ struct __attribute__ ((__packed__)) sdshdr64 {
 };
 ```
 SDS的主要特点：
-
+1. 初始化大小
 
 ## String数据结构
 
